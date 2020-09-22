@@ -1,0 +1,1087 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.friday.stickersforwhatsapp",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Kawaii Animals",
+      "publisher": "Friday Team",
+      "tray_image_file": "051-panda.png",
+      "publisher_email":"fridaycompany23@gmail.com",
+      "publisher_website": "https://instagram.com/fridayteam23",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {"image_file": "051-panda.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-bulldog.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-elephant.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-bee.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-sheep.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-bat.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-beaver.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-beetle.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-canary.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-cat.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-chameleon.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-chicken.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-clown-fish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-cow.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-crab.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-fox.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-frog.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-giraffe.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-humming-bird.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-llama.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-macaw.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-monkey.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-moose.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-octopus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-ostrich.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-rabbit.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-sloth.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-snake.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-turtle.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "051-whale.webp",
+          "emojis": ["☕","🕋"]}
+
+
+
+
+
+      ]
+    }
+  ],
+  "sticker_packs": [
+
+    {
+      "identifier": "2",
+      "name": "Sea Life",
+      "publisher": "Friday Team",
+      "tray_image_file": "047-fish.png",
+      "publisher_email":"fridaycompany23@gmail.com",
+      "publisher_website": "https://instagram.com/fridayteam23",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {"image_file": "047-fish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "034-shark.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "012-great-hammerhead.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "049-seahorse.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "035-lobster.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "001-hermit-crab.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "002-crab.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "003-fish-10.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "004-starfish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "007-fish-9.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "008-fish-8.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "009-lighthouse.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "010-fish-7.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "015-eel.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "017-fish-6.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "023-fishes.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "024-flying-fish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "028-fish-5.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "032-dolphin.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "033-stingray.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "036-fish-4.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "037-fish-3.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "039-jellyfish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "040-octopus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "042-fish-2.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "044-squid.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "045-whale.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "046-fish-1.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "048-snail.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "050-tortoise.webp",
+          "emojis": ["☕","🕋"]}
+
+
+
+
+      ]
+    }
+  ],
+
+
+  "sticker_packs": [
+    {
+      "identifier": "3",
+      "name": "Animals",
+      "publisher": "Friday Team",
+      "tray_image_file": "monkey.png",
+      "publisher_email":"fridaycompany23@gmail.com",
+      "publisher_website": "https://instagram.com/fridayteam23",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {"image_file": "monkey.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "panda.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "044-eagle.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "019-panda.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "012-macaw.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "koala.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "lemur.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "001-walrus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "002-octopus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "003-frog.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "005-owl.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "007-crow.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "016-duck.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "021-chameleon.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "031-gorilla.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "038-hen.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "041-goat.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "042-cow.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "047-fox.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "048-rabbit.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "050-dog.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "cat.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "chameleon.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "frog.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "gorilla.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "parrot.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "racoon.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "seal.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "toucan.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "whale.webp",
+          "emojis": ["☕","🕋"]}
+
+
+
+
+
+      ]
+
+    }
+  ],
+
+
+  "sticker_packs": [
+    {
+      "identifier": "4",
+      "name": "Lego Animals",
+      "publisher": "Friday Team",
+      "tray_image_file": "001-orca.png",
+      "publisher_email":"fridaycompany23@gmail.com",
+      "publisher_website": "https://instagram.com/fridayteam23",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {"image_file": "001-orca.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "012-elephant.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "011-dog-1.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "003-cat-1.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "019-bird.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "004-shark.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "002-turtle.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "005-rhino.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "006-pig.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "007-octopus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "008-hippo.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "009-hen.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "010-gorilla.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "013-duck.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "014-dog.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "015-cow.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "016-chicken.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "017-cat.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "018-bull.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "020-bear.webp",
+          "emojis": ["☕","🕋"]}
+
+
+
+
+
+
+
+
+
+      ]
+
+    }
+  ],
+
+  "sticker_packs": [
+    {
+      "identifier": "5",
+      "name": "Nature and Animals",
+      "publisher": "Friday Team",
+      "tray_image_file": "001-bee.png",
+      "publisher_email":"fridaycompany23@gmail.com",
+      "publisher_website": "https://instagram.com/fridayteam23",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "001-bee.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "017-dog.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "033-penguin.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "035-bird.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "041-sun.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "002-whale.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "005-mushroom.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "006-moon.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "011-pineapple.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "013-beetle.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "016-cat.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "018-duck.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "019-pig.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "021-firefly.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "023-crocodile.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "025-chicken.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "027-peach.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "030-hippopotamus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "034-bear.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "036-monkey.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "037-snail.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "038-butterfly.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "040-jellyfish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "042-koala.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "043-cactus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "044-frog.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "045-apple.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "047-deer.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "048-fish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "050-trunk.webp",
+          "emojis": ["☕","🕋"]}
+
+
+      ]
+    }
+  ],
+
+
+  "sticker_packs": [
+    {
+      "identifier": "6",
+      "name": "Dinosaur",
+      "publisher": "Friday Team",
+      "tray_image_file": "008-scelidosaurus.png",
+      "publisher_email":"fridaycompany23@gmail.com",
+      "publisher_website": "https://instagram.com/fridayteam23",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {"image_file": "008-scelidosaurus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "069-dinosaur.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "022-anchiornis.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "019-archaeopteryx.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "020-liopleurodon.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "001-muttaburrasaurus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "004-egg.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "005-placerias.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "009-stenopterygius.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "010-heterodontosaurus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "011-cryolophosaurus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "012-sauropelta.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "014-allosaurus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "015-monolophosaurus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "018-diplodocus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "024-rhamphorhynchus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "025-struthiomimus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "026-citipati.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "027-spinosaurus-1.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "028-velociraptor-3.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "031-quetzalcoatlus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "040-tyrannosaurus-rex-1.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "041-psittacosaurus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "045-tyrannosaurus-rex.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "046-styracosaurus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "049-dilophosaurus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "058-guanlong.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "060-basilosaurus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "062-velociraptor-1.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "073-pteranodon.webp",
+          "emojis": ["☕","🕋"]}
+
+
+
+
+
+
+      ]
+
+    }
+  ],
+
+
+  "sticker_packs": [
+    {
+      "identifier": "7",
+      "name": "Zoo",
+      "publisher": "Friday Team",
+      "tray_image_file": "003-ticket.png",
+      "publisher_email":"fridaycompany23@gmail.com",
+      "publisher_website": "https://instagram.com/fridayteam23",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {"image_file": "003-ticket.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "045-pheasant.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "012-hippopotamus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "027-sloth.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "038-koala.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "002-guide.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "004-gate.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "005-dolphin.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "006-bird.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "007-elephant.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "008-macaw.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "009-cassowary.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "011-elephant.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "012-snake.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "014-koala.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "019-owl.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "020-panda.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "024-rhinoceros.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "026-jackal.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "026-sea-lion.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "028-squirrel.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "030-goat.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "031-crocodile.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "034-lemur.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "036-sloth.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "049-baboon.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "050-condor.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "055-monkey-1.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "057-animal.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "060-zoo-1.webp",
+          "emojis": ["☕","🕋"]}
+
+
+
+
+
+      ]
+
+    }
+  ],
+
+  "sticker_packs": [
+{
+
+  "identifier": "8",
+  "name": "Pet Shop",
+  "publisher": "Friday Team",
+  "tray_image_file": "038-turtle.png",
+  "publisher_email":"fridaycompany23@gmail.com",
+  "publisher_website": "https://instagram.com/fridayteam23",
+  "privacy_policy_website": "",
+  "license_agreement_website": "",
+  "stickers": [
+
+    {"image_file": "031-syringe.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "044-medal.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "038-turtle.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "001-cat.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "037-rabbit.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "002-bird-house.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "003-dog-house.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "004-cat-toy.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "005-canned-food.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "006-fish-food.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "007-hamster-wheel.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "009-fish.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "010-fish-1.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "011-fish-2.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "012-dog.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "014-ball.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "017-pet-food.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "018-dog-house-1.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "019-aquarium-2.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "022-collar-1.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "023-dog-1.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "024-cage.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "034-hamster.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "036-snake.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "040-pet-shop.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "041-pawprints.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "043-pet-food-3.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "045-rabbit-1.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "046-pet-food-4.webp",
+      "emojis": ["☕","🕋"]},
+
+    {"image_file": "049-bell.webp",
+      "emojis": ["☕","🕋"]}
+
+
+
+
+
+
+
+  ]
+
+    }
+  ],
+
+
+  "sticker_packs": [
+    {
+      "identifier": "9",
+      "name": "Sea Life Collection",
+      "publisher": "Friday Team",
+      "tray_image_file": "013-seahorse.png",
+      "publisher_email":"fridaycompany23@gmail.com",
+      "publisher_website": "https://instagram.com/fridayteam23",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {"image_file": "035-hammerhead-fish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "029-anglerfish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "fish-5.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "dolphin.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "003-oyster.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "004-dolphin.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "005-starfish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "008-whale.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "013-seahorse.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "015-sea-cow.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "031-walrus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "034-penguin.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "037-clownfish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "elver.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "025-seal.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "fish-3.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "fish-4.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "flying-fish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "jellyfish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "lobster.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "octopus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "sea-urchin.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "seahorse.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "shark.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "shell-2.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "squid.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "starfish.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "stingray.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "turtle.webp",
+          "emojis": ["☕","🕋"]}
+
+
+
+
+      ]
+
+    }
+  ],
+
+
+  "sticker_packs": [
+    {
+      "identifier": "10",
+      "name": "Cute Animals",
+      "publisher": "Friday Team",
+      "tray_image_file": "bear.png",
+      "publisher_email":"fridaycompany23@gmail.com",
+      "publisher_website": "https://instagram.com/fridayteam23",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {"image_file": "lemur.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "bird-2.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "whale.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "reindeer.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "chick.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "giraffe.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "flamingo.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "bear.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "bird-1.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "bird-3.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "bird-4.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "bird.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "bull.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "cat-1.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "cat-2.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "cat.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "cow.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "crab.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "dog.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "donkey.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "fox.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "hedgehog.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "hippopotamus.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "koala.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "pig.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "pig2.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "rabbit.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "sheep.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "tiger.webp",
+          "emojis": ["☕","🕋"]},
+
+        {"image_file": "zebra.webp",
+          "emojis": ["☕","🕋"]}
+
+
+
+
+
+
+      ]
+
+    }
+  ]
+
+}

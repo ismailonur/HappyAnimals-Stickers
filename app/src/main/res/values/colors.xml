@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e9cca</color>
+    <color name="colorPrimaryDark">#177da3</color>
+    <color name="colorAccent">#182ce4</color>
+    <color name="inactiveAddButtonColor">#B3B3B3</color>
+    <color name="infoPageBackgroundColor">#EBEBEB</color>
+    <color name="actionBarArrowColor">#fcfeff</color>
+</resources>
